@@ -1,8 +1,7 @@
 /***********************************
 
 > ScriptName        𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭
-> Author            @duyvinh09
-> TgChannel         https://t.me/tienich
+> Author            @KimChon
 > ScriptURL         https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/revenuecat.js
 
 

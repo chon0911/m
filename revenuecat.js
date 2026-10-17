@@ -8,7 +8,7 @@
 [rewrite_local]
 
 # ～ RevenueCat@duyvinh09
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-response-body https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/revenuecat.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-response-body https://raw.githubusercontent.com/chon0911/m/refs/heads/main/revenuecat.js
 ^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers) url script-request-header https://raw.githubusercontent.com/chon0911/m/refs/heads/main/deleteHeader.js
 [mitm]
 

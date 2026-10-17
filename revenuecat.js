@@ -2,7 +2,7 @@
 
 > ScriptName        𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭
 > Author            @KimChon
-> ScriptURL         https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/revenuecat.js
+> ScriptURL         https://raw.githubusercontent.com/chon0911/m/refs/heads/main/revenuecat.js
 
 
 [rewrite_local]

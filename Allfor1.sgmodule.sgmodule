@@ -1,12 +1,12 @@
-#!name=All In One
+#!name=AllFor1
 #!desc=Được tổng hợp bởi Đinh Duy Vinh
-#!author=duyvinh09
+#!author=KimChon
 #!homepage=https://module-ios.netlify.app
 #!tgchannel=https://t.me/tienich
 #!moduleUrl=https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/All_In_One.sgmodule
 #!icon=https://module-ios.netlify.app/assets/img/shadowrocket.webp
 #!howtouse=Shadowrocket
-#Shadowrocket Configuration - All IN ONE
+#Shadowrocket Configuration - ALL FOR 1
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT

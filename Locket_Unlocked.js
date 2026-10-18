@@ -327,7 +327,7 @@ if (ua.includes("Locket")) {
     // ============================================================
     Object.assign(obj.entries, {
         cdn_domain_replacements: JSON.stringify({ "firebasestorage.googleapis.com": "cdn.locketcamera.com" }),
-        cdn_domain_replacements_video: "true",
+        cdn_domain_replacements_video: "false",
         storage_bucket: "gs://locket-img",
         storage_bucket_video: "gs://locket-video",
         image_cache_max_age_sec: "157680000",

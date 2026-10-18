@@ -242,12 +242,6 @@ if (ua.includes("Locket")) {
         streak.grace_period_hours = 168;
         obj.entries.streak_config = JSON.stringify(streak);
     } catch (e) {}
-    // Đoạn code can thiệp ép hiển thị con số streak giả lập trên máy bạn
-    try {
-        if (obj.streak && typeof obj.streak === 'object') {
-            obj.streak.count = 200; // Bạn có thể thay số 72 thành bất kỳ con số nào bạn muốn ở đây
-        }
-    } catch (e) {}
 
     Object.assign(obj.entries, {
         moment_views_enabled: "true",
